@@ -8,7 +8,8 @@ public class SwitchDemo {
  * Switch,If Else-> Selection statements
  * 
  */
-	//program to do arithmetic operations
+	//program to do arithmetic operation
+System.out.println("Welcome");
 		System.out.println("Enter two numbers");
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
