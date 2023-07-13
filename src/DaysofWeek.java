@@ -4,7 +4,7 @@ public class DaysofWeek {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Lets Print the days of week");
+		//System.out.println("Lets Print the days of week");
 System.out.println("Enter the number for the day");
 Scanner s=new Scanner(System.in);
 int n=s.nextInt();
