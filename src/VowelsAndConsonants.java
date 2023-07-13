@@ -4,6 +4,7 @@ public class VowelsAndConsonants {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Its all about vowels");
    System.out.println("Enter the alphabet:\n");
    Scanner s=new Scanner(System.in);
    char alphabet=s.next().charAt(0);
