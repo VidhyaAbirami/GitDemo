@@ -9,7 +9,7 @@ public class SwitchDemo {
  * 
  */
 	//program to do arithmetic operation
-System.out.println("Welcome");
+
 
 		System.out.println("Enter two numbers");
 		Scanner s=new Scanner(System.in);
