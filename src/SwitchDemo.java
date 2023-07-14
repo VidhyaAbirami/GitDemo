@@ -9,8 +9,13 @@ public class SwitchDemo {
  * 
  */
 	//program to do arithmetic operation
+<<<<<<< HEAD
 System.out.println("Hello");
 System.out.println("Welcome");
+=======
+
+
+>>>>>>> master
 		System.out.println("Enter two numbers");
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
